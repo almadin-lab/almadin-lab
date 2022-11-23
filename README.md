@@ -1,0 +1,2 @@
+- 👋 I’m @almadin-lab
+- 👀 I’m a beginner coder in a day old in GitHub
